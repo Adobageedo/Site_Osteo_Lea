@@ -62,7 +62,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 .bg-color1{
     color:#fff;
-    background:#4151e1;/*boh AB7F76 Logo rond 4146e1*/
+    background:#ffe600;/*boh AB7F76 Logo rond 4146e1*/
 }
 
 .bg-color2{
@@ -85,11 +85,11 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 .color1 .service-icon,
 .color1.service-item ul li:nth-child(2):before{
-    background:#4151e1;
+    background:#ffe600;
 }
 
 .color1 .service-icon:after{
-    border:3px solid #4151e1;
+    border:3px solid #ffe600;
 }
 
 .color2 .service-icon,
@@ -139,7 +139,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     width: 200px;
 }
 .btn-color1{
-    background:#4151e1;
+    background:#ffe600;
 }
 
 .btn-color1:hover,
@@ -451,7 +451,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 .skill2{
     left:25%;
-    background: #4151e1;
+    background: #ffe600;
 }
 
 .skill3{
@@ -507,7 +507,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     z-index: -9999999;
 }
 .touch #remboursement{
-    background:#4151e1;/*7E5E60*/
+    background:#ffe600;/*7E5E60*/
 }
 
 #filter-works ul {
@@ -569,7 +569,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 #filter-works ul li.active a,
 #filter-works ul li:hover a{
-    color:#4151e1;
+    color:#ffe600;
 }
 
 .masonry-wrapper{
@@ -638,7 +638,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     height:100%;
     top:0;
     left:0;
-    background:#4151e1;
+    background:#ffe600;
     opacity: 0;
     filter:alpha(opacity=0);
     -webkit-transition:all 0.3s ease-out;
@@ -787,7 +787,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 #project-slider .flex-control-nav li {margin: 0 6px; display: inline-block; zoom: 1; *display: inline;}
 #project-slider .flex-control-paging li a {padding:0px; width: 16px; height: 16px; display: block; background:#fff;background: rgba(255,255,255,0.3); cursor: pointer; text-indent: -9999px; border:none; -webkit-border-radius: 20px; -moz-border-radius: 20px; -o-border-radius: 20px; border-radius: 20px; box-shadow: none; -webkit-transition:background .2s ease-out; transition:background .2s ease-out;}
 #project-slider .flex-control-paging li a:hover { background: #fff;background: rgba(255,255,255,0.6); }
-#project-slider .flex-control-paging li a.flex-active { background: #4151e1; cursor: default; }
+#project-slider .flex-control-paging li a.flex-active { background: #ffe600; cursor: default; }
 
 /*----------------------
 -----Twitter Styles-----
@@ -1100,7 +1100,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 .social-links li a:hover {
     color:#fff;
-    background:#4151e1
+    background:#ffe600
 }
 
 /*------------------------
@@ -1555,7 +1555,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 .skill2{
     left:25%;
-    background: #4151e1;
+    background: #ffe600;
 }
 
 .skill3{
