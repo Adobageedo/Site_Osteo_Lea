@@ -11,12 +11,12 @@ body{
 }
 
 a{
-	color:#419ce1;
+	color:#1100ff;
 	text-decoration:none
 }
 
 a:hover,a:focus{
-	color:#419ce1;
+	color:#1100ff;
 	text-decoration:underline
 }
 
@@ -67,7 +67,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 .bg-color2{
     color:#fff;
-    background:#419ce1;/*boh B38B6D*/
+    background:#1100ff;/*boh B38B6D*/
 }
 
 .bg-color3{
@@ -76,11 +76,11 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 }
 
 .border-bottom-color2{
-    border-bottom:7px solid #419ce1;
+    border-bottom:7px solid #1100ff;
 }
 
 .border-top-color2{
-    border-top:7px solid #419ce1;
+    border-top:7px solid #1100ff;
 }
 
 .color1 .service-icon,
@@ -94,11 +94,11 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 .color2 .service-icon,
 .color2.service-item ul li:nth-child(2):before{
-    background:#419ce1;
+    background:#1100ff;
 }
 
 .color2 .service-icon:after{
-    border:3px solid #419ce1;
+    border:3px solid #1100ff;
 }
 
 .color3 .service-icon,
@@ -120,7 +120,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     color:#fff;
     font-size: 21px;
     font-weight: 300;
-    background:#419ce1;
+    background:#1100ff;
     outline: none !important;
     border-radius: 0;
     transition: opacity .2s ease-out;
@@ -131,7 +131,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     color:#fff;
     font-size: 21px;
     font-weight: 300;
-    background:#419ce1;
+    background:#1100ff;
     outline: none !important;
     border-radius: 5px;
     transition: opacity .2s ease-out;
@@ -289,7 +289,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 #main-nav.scrolled .nav li.active a,
 #main-nav.scrolled .nav a:hover{
-    color: #419ce1;
+    color: #1100ff;
 }
 
 /*-----------------------
@@ -446,7 +446,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 .skill1{
     left:0;
-    background: #419ce1;
+    background: #1100ff;
 }
 
 .skill2{
@@ -490,7 +490,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     color:#fff;
     overflow: hidden;
     position: relative;
-    background: #419ce1;
+    background: #1100ff;
 }
 
 #remboursement::before {
@@ -999,7 +999,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 #contact-form .form-control:focus {
     background:#fff;
-    border-bottom:3px solid #419ce1;
+    border-bottom:3px solid #1100ff;
     outline:none;
     box-shadow:none;
     -webkit-transition:border-color .3s ease-in;
@@ -1047,7 +1047,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 }
 
 #gmap .infowin a{
-    color:#419ce1;
+    color:#1100ff;
 }
 
 #gmap .infowin a:hover{
@@ -1061,7 +1061,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 #main-footer{
     padding-top:50px;
     padding-bottom:40px;
-    background: #419ce1;/*7E5E60*/
+    background: #1100ff;/*7E5E60*/
 }
 
 .social-links {
@@ -1071,7 +1071,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     margin-bottom:30px;
 }
 #map {
-    background: #419ce1; /* for example, royal blue */
+    background: #1100ff; /* for example, royal blue */
 }
 
 .social-links li{
@@ -1347,7 +1347,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
     #main-nav .nav li.active a,
     #main-nav .nav a:hover{
-        color: #419ce1;
+        color: #1100ff;
     }
 
     #main-nav .navbar-brand{
@@ -1447,7 +1447,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 	font-weight:bold;
 }
 .blog-post a:hover, .blog-post a:focus {
-	color:#419ce1;
+	color:#1100ff;
 	text-decoration:none;
 }
 .featured-image {
@@ -1550,7 +1550,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 .skill1{
     left:0;
-    background: #419ce1;
+    background: #1100ff;
 }
 
 .skill2{
